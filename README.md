@@ -1,2 +1,2 @@
 # classifying heart disease
- Implementing the decision trees for classifying heart disease. 
+ Implementing the decision tree for classifying heart disease. 
